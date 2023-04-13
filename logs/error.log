@@ -1,0 +1,6 @@
+[2023-04-13T15:13:23.842] [ERROR] errorFile - Error en servidor TypeError: connectedServer.address is not a function
+[2023-04-13T15:13:23.845] [ERROR] errorFile - Error en servidor 
+[2023-04-13T15:15:54.935] [ERROR] errorFile - Error en servidor ReferenceError: connectedServer is not defined
+[2023-04-13T15:15:54.939] [ERROR] errorFile - Error en servidor 
+[2023-04-13T15:16:18.443] [ERROR] errorFile - Error en servidor 
+[2023-04-13T15:18:44.557] [ERROR] errorFile - Error en servidor TypeError: connectedServer.address is not a function
